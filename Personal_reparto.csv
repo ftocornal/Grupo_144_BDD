@@ -1,0 +1,18 @@
+id,id_personal,licencia (moto,auto,camioneta,camion,bus,bicicleta.....)
+1,2,moto
+2,4,auto
+3,5,camioneta
+4,11,bus
+5,12,bicicleta
+6,13,moto
+7,14,moto
+8,15,auto
+9,16,auto
+10,17,camion
+11,18,camion
+12,19,bus
+13,20,bus
+14,21,bicicleta
+15,22,bicicleta
+16,23,camioneta
+17,24,camioneta

@@ -1,0 +1,23 @@
+id,direccion,comuna,tipo (despacho o unidad)
+1,Camino Turistico 2244,Valparaíso,despacho
+2,Los Trapenses 2671,Valparaíso,despacho
+3,Iguazu 1111,Vitacura,despacho
+4,Ibiza 1432,Vitacura,despacho
+5,Los Pozos 2456,Las Condes,unidad
+6,Malaga 2543,Las Condes,despacho
+7,La Forja 231,La Reina,despacho
+8,Los Ceramistas 3476,La Reina,despacho
+9,Av Lo Martinez 1861,La Pintana,despacho
+10,Los Pinares 2255,La Pintana,despacho
+11,Campo Lindo 2498,San Joaquín,unidad
+12,Copiapó 2678,San Joaquín,despacho
+13,Enrique Olivares 2349,La Florida,despacho
+14,Las Vertientes 3276,La Florida,despacho
+15,Pasaje Fragata,Maipu,despacho
+16,Leonardo Da Vinci,Maipu,despacho
+17,Lo Errazuriz 1876,Cerrillos,despacho
+18,Las Rosas 8764,Cerrillos,despacho
+19,San Pablo 7895,Pudahuel,unidad
+20,La Estrella 1457,Pudahuel,despacho
+21,La Capilla 2902,Cerro Navia,despacho
+22,Mapocho 4513,Cerro Navia,despacho
